@@ -1,0 +1,18 @@
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\dlamini_and_groupon.txt
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\pharmacare_and_ingramhealthcare.txt
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\unilever_and_mars.txt
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\watkins_and_richards.txt
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\CommentarySentimentAnalyzer.exe
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\CommentarySentimentAnalyzer.pdb
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\obj\Debug\CommentarySentimentAnalyzer.csprojAssemblyReference.cache
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\obj\Debug\CommentarySentimentAnalyzer.exe
+C:\Users\Nkosinathi\Documents\LexisNexis Assessment\techdev-challenge-master\CommentarySentimentAnalyzer\obj\Debug\CommentarySentimentAnalyzer.pdb
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\obj\Debug\CommentarySentimentAnalyzer.exe
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\obj\Debug\CommentarySentimentAnalyzer.pdb
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\dlamini_and_groupon.txt
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\pharmacare_and_ingramhealthcare.txt
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\unilever_and_mars.txt
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\commentary\watkins_and_richards.txt
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\CommentarySentimentAnalyzer.exe
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\bin\Debug\CommentarySentimentAnalyzer.pdb
+C:\Users\Nkosinathi\Documents\YouCam\techdev-challenge-master\CommentarySentimentAnalyzer\obj\Debug\CommentarySentimentAnalyzer.csprojResolveAssemblyReference.cache
